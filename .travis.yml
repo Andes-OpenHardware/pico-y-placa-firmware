@@ -33,4 +33,4 @@ script:
     - platformio remote device list
 
     - echo "Run embedded test on remote devices (Arduino Uno)"
-    - platformio remote test -e uno
+    - platformio remote test --force-remote -e uno
