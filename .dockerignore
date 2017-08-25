@@ -1,0 +1,12 @@
+README.md
+.gitignore
+Dockerfile
+.git
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.credentials
+.travis.yml
+Makefile
+test/embedded/**
