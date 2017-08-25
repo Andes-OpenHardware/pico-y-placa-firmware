@@ -16,6 +16,15 @@ At this moment, the supported devices on which the firmware can run are:
 
 ---
 
+## How to install the firmware
+
+To install the firmware on any of the supported devices you need to have at least PlatformIO Core installed on your machine (see the PlatformIO [official documentation](http://docs.platformio.org/en/latest/installation.html#system-requirements) for more details on how to install PlatformIO Core depending on your OS).
+Once you have PlatformIO Core installed and working, you can execute on your terminal:
+`pio run -e <environment> -t upload` or `platformio run -e <environment> -t upload`
+where _<environment>_ is any of the environments defined in the [platformio.ini](https://github.com/Andes-OpenHardware/pico-y-placa-firmware/blob/master/platformio.ini) file.
+
+---
+
 ## How to contribute
 
 If you'd like to contribute to this (or any of our projects), please take a look at the [CONTRIBUTING.md](https://github.com/Andes-OpenHardware/pico-y-placa-firmware/blob/master/CONTRIBUTING.md) file on this repo.
