@@ -14,6 +14,9 @@ class Accelerometer {
     Accelerometer(bool is_empty);
   public:
     bool is_empty(void);
+    short x(void);
+    short y(void);
+    short z(void);
     static Accelerometer* Create(short x, short y, short z);
 };
 

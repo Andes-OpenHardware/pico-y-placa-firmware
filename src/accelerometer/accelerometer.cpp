@@ -26,3 +26,15 @@ Accelerometer* Accelerometer::Create(short x, short y, short z) {
 bool Accelerometer::is_empty(void) {
   return is_empty_;
 }
+
+short Accelerometer::x() {
+  return axis_.x;
+}
+
+short Accelerometer::y() {
+  return axis_.y;
+}
+
+short Accelerometer::z() {
+  return axis_.z;
+}
