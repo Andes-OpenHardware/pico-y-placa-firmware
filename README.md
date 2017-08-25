@@ -1,6 +1,6 @@
 # Pico y Placa firmware
 
-https://travis-ci.org/Andes-OpenHardware/pico-y-placa-firmware.svg?branch=master
+[![Build Status](https://travis-ci.org/Andes-OpenHardware/pico-y-placa-firmware.svg?branch=master)](https://travis-ci.org/Andes-OpenHardware/pico-y-placa-firmware)
 
 Pico y Placa is an IoT product created to notify people when they're moving their car on:
 - A Pico y Placa day given the last plate digit of their car.
