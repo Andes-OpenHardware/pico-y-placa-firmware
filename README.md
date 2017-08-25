@@ -18,4 +18,4 @@ At this moment, the supported devices on which the firmware can run are:
 
 ## How to contribute
 
-If you'd like to contribute to this (or any of our projects), please take a look at the CONTRIBUTING.md file on this repo.
+If you'd like to contribute to this (or any of our projects), please take a look at the [CONTRIBUTING.md](https://github.com/Andes-OpenHardware/pico-y-placa-firmware/blob/master/CONTRIBUTING.md) file on this repo.
